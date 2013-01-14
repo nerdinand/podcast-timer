@@ -70,7 +70,7 @@ public class PodcastTimer extends Frame implements ActionListener,
 	 */
 	private void createAndShowGUI() {
 		// Create and set up the window.
-		JFrame frame = new JFrame("BoxLayoutDemo");
+		JFrame frame = new JFrame("Podcast Timer");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		// Set up the content pane.
