@@ -13,11 +13,14 @@ At the moment this really is as simple as it gets:
 3. A dialog will pop up, asking you for a chapter title.
 4. Enjoy your chapters!
 
+NOTE: The Podcast timer will substract 5 seconds from each of the chapter time stamps in order to compensate for slowness when entering them.
+
 Chapter format
 --------------
 
 The chapter marks follow this format:
+<pre>
 hh:mm:ss.000 Chapter 1
 hh:mm:ss.000 Chapter 2
-
+</pre>
 The advantage of this format is that it is understood by http://auphonic.com which I use for podcast postproduction.
