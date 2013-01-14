@@ -7,6 +7,7 @@ Usage
 -----
 
 At the moment this really is as simple as it gets:
+
 1. Press the "Start Timer" button as you start recording your podcast.
 2. Press the "Enter Chapter" button when a new chapter starts.
 3. A dialog will pop up, asking you for a chapter title.
