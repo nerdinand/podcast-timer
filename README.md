@@ -24,3 +24,8 @@ hh:mm:ss.000 Chapter 1
 hh:mm:ss.000 Chapter 2
 </pre>
 The advantage of this format is that it is understood by http://auphonic.com which I use for podcast postproduction.
+
+Download
+--------
+
+You can find a pre-built runnable jar file <a href="https://docs.google.com/file/d/0B9sn6KPUPAjsTWVGTUE3djFtdFk/edit">here</a>. However, this might not be current.
